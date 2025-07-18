@@ -19,5 +19,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/proxy-parser.git
+git clone https://github.com/extazz1r/proxy-parser.git
 cd proxy-parser
